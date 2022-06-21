@@ -128,3 +128,16 @@ button::after{
        text-shadow: none;
    }    
  }
+#resposta{
+   color: white;
+   margin-top: 30px;
+   transition:  opacity 1s;
+}
+#resposta div {
+   color: wheat;
+   font-size: 16px;
+   font-weight: normal;
+   opacity: 0.9;
+   margin-bottom: 10px;
+  
+}
